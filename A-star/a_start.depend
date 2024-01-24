@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1705551940 source:c:\users\hp\documents\studia\3 rok\semestr 1\robotyka\a_start\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<algorithm>
+	<memory>
+
+1705552112 source:c:\users\oleks\desktop\robotyka-main\robotyka-main\a_start\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<algorithm>
+	<memory>
+
